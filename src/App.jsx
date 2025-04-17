@@ -14,9 +14,7 @@ function App() {
       {count} */}
 
       <div>
-        <h1>Superdry</h1>
-        <h2>React App</h2>
-        <p>Welcome to the Superdry React App!</p>
+
         <button onClick={() => setCount(count + 1)}>
           count is {count}
         </button>
